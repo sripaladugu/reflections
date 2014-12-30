@@ -30,3 +30,5 @@ Merging two branches together will make sure that the changes that were made in 
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+git's automatic merging collates all the changes from different branches. If one were to do this manually, it
+will be a daunting task.
