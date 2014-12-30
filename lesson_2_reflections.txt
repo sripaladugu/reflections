@@ -21,6 +21,8 @@ branches can help us work on experimental enhancements keeping them separate fro
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams can help you visualize the branch structure by listing out the commitids in different braches as a graph.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
